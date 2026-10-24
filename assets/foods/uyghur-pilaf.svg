@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffe8a5"/><stop offset="1" stop-color="#d88d43"/></linearGradient><linearGradient id="r" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f1c363"/><stop offset="1" stop-color="#d2763f"/></linearGradient></defs>
+  <ellipse cx="256" cy="430" rx="180" ry="28" fill="#173e58" opacity=".2"/>
+  <path d="M70 271c12 104 92 151 186 151s174-47 186-151z" fill="url(#b)" stroke="#4c3029" stroke-width="12"/>
+  <ellipse cx="256" cy="267" rx="186" ry="91" fill="#f7dda0" stroke="#4c3029" stroke-width="12"/>
+  <ellipse cx="256" cy="254" rx="157" ry="68" fill="url(#r)" stroke="#74402e" stroke-width="8"/>
+  <g fill="#fff0a4" stroke="#b26c35" stroke-width="4"><ellipse cx="140" cy="236" rx="17" ry="11" transform="rotate(-12 140 236)"/><ellipse cx="174" cy="214" rx="18" ry="11" transform="rotate(12 174 214)"/><ellipse cx="216" cy="247" rx="20" ry="12" transform="rotate(-20 216 247)"/><ellipse cx="260" cy="220" rx="17" ry="11" transform="rotate(10 260 220)"/><ellipse cx="302" cy="248" rx="21" ry="12" transform="rotate(18 302 248)"/><ellipse cx="352" cy="231" rx="19" ry="12" transform="rotate(-14 352 231)"/></g>
+  <g fill="#8e3e35" stroke="#5c302e" stroke-width="6"><path d="M169 265l38-18 27 25-17 31-42-5z"/><path d="M279 265l41-17 31 25-19 33-43-9z"/><path d="M224 292l31-13 30 22-16 30-39-6z"/></g>
+  <g fill="#ef9a35" stroke="#a65a31" stroke-width="5"><path d="M121 272l31-17 19 22-28 22z"/><path d="M346 280l29-18 19 23-31 22z"/></g>
+  <g fill="#b55c58" stroke="#703434" stroke-width="4"><ellipse cx="158" cy="291" rx="8" ry="12"/><ellipse cx="330" cy="212" rx="8" ry="12"/><ellipse cx="290" cy="291" rx="8" ry="12"/></g>
+  <g fill="none" stroke="#fffdf0" stroke-width="9" stroke-linecap="round" opacity=".78"><path d="M206 91c-25-30 23-42-4-70"/><path d="M270 89c-27-32 27-42-1-73"/><path d="M327 94c-22-27 21-41-2-66"/></g>
+  <g fill="#fff2a4" stroke="#b47b39" stroke-width="4"><path d="M95 183l7 15 16 7-16 7-7 16-7-16-16-7 16-7z"/><path d="M410 181l6 13 14 6-14 6-6 14-6-14-14-6 14-6z"/></g>
+</svg>
