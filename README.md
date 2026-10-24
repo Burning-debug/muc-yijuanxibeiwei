@@ -2,7 +2,7 @@
 
 西北美食互动网页 · 电脑端。
 
-网页地址：https://burning-debug.github.io/yijuanxibeiwei/
+网页地址：[一卷西北味 · 点击体验](https://burning-debug.github.io/yijuanxibeiwei/)
 
 点击收集食材，将食材拖入锅中，体验四道西北美食的制作旅程。建议使用电脑浏览器或横屏设备访问。
 
